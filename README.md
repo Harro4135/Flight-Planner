@@ -1,2 +1,5 @@
 # Flight-Planner
-2D path finding algorithm using an implementation of the A* search algorithm, accounting for the wind and great circle calculations between any two ICAO airports.
+Flight.py takes data from various files to process user terminal input
+1. 4 letter ICAO code of departure airport (e.g. CYYZ)
+2. 4 letter ICAO code of arrival airport (e.g. EGLL)
+3. 
