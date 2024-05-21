@@ -9,3 +9,4 @@ Flight.py takes stored data from various files to process user terminal inputs
 The script then generates a grid of appropriate size, proportional to the manhattan distance between the arrival and departure airport. It proceeds to use an implementation of the a* algorithm with a heuristic based on the wind conditions at the given location. Finally it outputs an interactive globe view of the route and the numeric properties of the route, seen here.
 
 ![image](https://github.com/Harro4135/Flight-Planner/assets/91696463/2f611924-3fdf-4802-a2e9-3b012f2eec0c)
+Or view the interactive version here https://harro4135.github.io/Flight-Planner/CYYZ-EGLL.html
