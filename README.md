@@ -1,4 +1,3 @@
-![theme] dark
 # Basic Flight-Planner
 ## Introduction
 This project allowed me to take my love and passion for aviation and experiment with concepts I was learning about in my CS class. It uses a database of global airports and wind data to output the optimal path between any two airports, additionally, it calculates the minimum takeoff fuel that could be used.
